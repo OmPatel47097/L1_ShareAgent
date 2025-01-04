@@ -1,2 +1,39 @@
+# Python virtual environment
+venv_agenticai/
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
 .env
-project_note.txt
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+*.sqlite3
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
