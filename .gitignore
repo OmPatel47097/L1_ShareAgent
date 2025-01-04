@@ -38,3 +38,5 @@ logs/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+project_note.txt
