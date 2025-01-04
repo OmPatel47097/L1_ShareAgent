@@ -1,0 +1,3 @@
+Use Phi library to design a chatbot for the Equity Lens Project.
+
+Start new project of chatbot which can as a tutor for the subject of ML and AI using the vector database created with RAG.
