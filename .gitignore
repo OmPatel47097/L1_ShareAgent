@@ -3,6 +3,7 @@ venv_agenticai/
 venv/
 env/
 ENV/
+venv_agenticai/
 
 # Python cache files
 __pycache__/
